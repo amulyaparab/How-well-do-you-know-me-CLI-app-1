@@ -1,5 +1,5 @@
 # How-well-do-you-know-me-CLI-app-1
-This is a CLI quiz app to test how well you know me.
+This is a CLI quiz app made with NodeJS to test how well you know me.
 
 # How it works:
 * Enter the required input
