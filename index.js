@@ -30,6 +30,7 @@ function play(question, answer) {
     score = score + 1;
   } else {
     console.log("You are wrong!");
+    console.log(chalk.blueBright("Correct answer is: " + answer))
   }
 
   console.log(chalk.hex("#6366f1")("Current score: " + score))
